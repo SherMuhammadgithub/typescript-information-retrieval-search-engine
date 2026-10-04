@@ -1,0 +1,1 @@
+Query expansion adds related terms to improve recall during information retrieval.

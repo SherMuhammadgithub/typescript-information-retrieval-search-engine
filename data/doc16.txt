@@ -1,0 +1,1 @@
+Recall describes how many relevant documents were found by the search system.

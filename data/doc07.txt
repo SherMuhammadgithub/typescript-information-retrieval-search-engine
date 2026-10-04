@@ -1,0 +1,1 @@
+TF-IDF gives more weight to useful terms and less weight to common terms.

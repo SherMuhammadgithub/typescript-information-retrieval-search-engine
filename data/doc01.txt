@@ -1,0 +1,1 @@
+Search engines use inverted indexes to find documents that contain a query term.

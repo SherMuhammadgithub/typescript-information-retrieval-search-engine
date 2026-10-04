@@ -1,0 +1,1 @@
+Precision describes how many returned search results are relevant to the user.

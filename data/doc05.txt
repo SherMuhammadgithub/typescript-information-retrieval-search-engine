@@ -1,0 +1,1 @@
+Boolean retrieval combines document sets with AND, OR, and NOT operators.

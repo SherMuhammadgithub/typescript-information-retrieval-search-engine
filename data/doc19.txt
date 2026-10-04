@@ -1,0 +1,1 @@
+A ranked result list should display document identifiers and relevance scores clearly.

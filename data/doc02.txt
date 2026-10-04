@@ -1,0 +1,1 @@
+Ranking algorithms order search results by estimating document relevance for a query.

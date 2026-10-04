@@ -1,0 +1,1 @@
+Term frequency counts how often a word occurs inside one document.

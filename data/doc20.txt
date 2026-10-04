@@ -1,0 +1,1 @@
+Testing verifies that indexing, Boolean operations, and vector ranking produce expected results.

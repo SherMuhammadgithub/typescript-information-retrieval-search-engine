@@ -1,0 +1,1 @@
+Cosine similarity compares the angle between a query vector and a document vector.

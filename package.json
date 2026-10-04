@@ -1,0 +1,21 @@
+{
+  "name": "typescript-information-retrieval-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun run src/cli.ts",
+    "verify:documents": "bun run src/verification/verify-document-loading.ts",
+    "verify:tokenization": "bun run src/verification/verify-tokenization.ts",
+    "verify:inverted-index": "bun run src/verification/verify-inverted-index.ts",
+    "verify:boolean-search": "bun run src/verification/verify-boolean-search.ts",
+    "verify:tfidf": "bun run src/verification/verify-tfidf.ts",
+    "verify:vector-search": "bun run src/verification/verify-vector-search.ts",
+    "typecheck": "bunx tsc --noEmit",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.2",
+    "@types/node": "^26.6.4"
+  }
+}

@@ -1,0 +1,1 @@
+Search quality improves when retrieval matches the intent and vocabulary of the query.

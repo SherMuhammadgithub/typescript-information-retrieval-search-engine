@@ -1,0 +1,1 @@
+A document collection provides the corpus used to calculate statistics for ranking.
